@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71935245399",
+    "project_id": "reganfirebase",
+    "storage_bucket": "reganfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71935245399:android:14e28e0359898c967bf712",
+        "android_client_info": {
+          "package_name": "com.reagen.farm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMbUxH2qa5FSNd59GPRNe4USRe1CMMB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
